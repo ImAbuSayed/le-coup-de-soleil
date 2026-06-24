@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/le-coup-de-soleil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Le Coup De Soleil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-coup-de-soleil/) |
+| **Get License** | [License this song: Le Coup De Soleil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/le-coup-de-soleil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sous les néons de la ville, tu captes mon regard
+> Midnight drive dans Paris, on s'évade dans le noir
+> Ton parfum de mystère me rend totalement fou
+> C'est le coup de soleil, baby, rien que pour nous
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
